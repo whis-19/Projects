@@ -1,0 +1,10 @@
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DS_Project.vcxproj.AssemblyReference.cache
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.Add_word.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.Delete.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.findword.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.HOME.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.update.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DS_Project.vcxproj.GenerateResource.cache
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DS_Project.exe
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.LOAD_.resources
+D:\FAST\SEM 3\DS LAB\DS_Project\x64\Debug\DSProject.TEAM_.resources
